@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="item_type" label="Item Type" language="en" table="x_1893214_loanner_lonner_reqq">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <help/>
+            <hint/>
+            <label>Item Type</label>
+            <language>en</language>
+            <name>x_1893214_loanner_lonner_reqq</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-18 05:35:58</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Item Type</sys_name>
+            <sys_package display_value="Loanner" source="x_1893214_loanner">e098d848837bb210f88716dfeeaad35e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loanner">e098d848837bb210f88716dfeeaad35e</sys_scope>
+            <sys_update_name>sys_documentation_x_1893214_loanner_lonner_reqq_item_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-18 05:37:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
